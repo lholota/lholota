@@ -4,7 +4,7 @@
 
 📫 You can reach me on gh@lholota.com
 
-🌐 If you want to know more about me, check [https://lholota.com](lholota.com)
+🌐 If you want to know more about me, check [lholota.com](https://lholota.com)
 
 <!---
 lholota/lholota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
